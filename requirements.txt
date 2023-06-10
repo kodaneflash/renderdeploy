@@ -1,4 +1,4 @@
-numpy-1.24.3
+numpy-1.24.0
 plotly==5.3.1
 streamlit==1.11.1
 python==3.8
